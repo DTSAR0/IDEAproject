@@ -7,5 +7,6 @@ public class Main {
         }
 
         System.out.println("Modyfikacja 1");
+        System.out.println("Modyfikacja 2");
     }
 }
